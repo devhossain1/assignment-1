@@ -120,3 +120,247 @@ text-transform: capitalize;
 p>span{
     color: red;
 }
+.btn-park{
+    padding: 10px 20px;
+    background: red;
+    color: #FFF;
+    border-radius: 5px;
+}
+.coming-soon{
+    margin: 50px 140px;
+    display: flex;
+    gap: 50px;
+    justify-items: center;
+}
+.coming-soon-collum{
+    width:33%;
+    justify-content: center;
+
+}
+.coming{
+    /* border-radius: 250px;
+    border: 10px solid #F00; */
+}
+#img-box{
+    width: 250px;
+    height: 250px;
+    border-radius: 300px;
+    border: 15px solid #F00;
+    padding: 50px; 
+    /* justify-content: center; */
+    display: flex;
+    /* flex-shrink: 0; */
+}
+.coming1{
+    color: #F00;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.coming-left{
+    margin-top: 100px;
+}
+.coming-right{
+    margin-top: 100px;
+}
+/* holydays section styles */
+.section-container{
+    margin: 50px 140px;
+}
+.image-content{
+    width: 100%;
+}
+.holyday-title >span{
+    color: #F00;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    margin-bottom: 0px;
+}
+.holyday-title{
+    color: #070211;
+    font-size: 62px;
+    font-weight: 800;
+    margin-bottom: 0px;
+  
+}
+.sub-title{
+    color: #070211;
+    font-size: 24px;
+    font-weight: 500;
+    margin-top:140px;
+    margin-bottom: -25px;
+
+}
+.holyday-content{
+    text-align: center;
+    margin-bottom: 50px;
+}
+/* .image-content{
+   width: 80%;
+} */
+.part1{
+     width: 100%;
+    display: flex;
+    gap: 50px;
+    /* justify-items: center; */
+
+  
+}
+.img-1{
+
+}
+.img-1 > img{
+    margin-top: 100px;
+    width: 500px;
+    height: 500px;
+
+}
+.img-2{
+   background-image: url('images/Rectangle\ 1.png');
+   background-size:cover;
+   background-repeat: no-repeat;
+   width: 750px;
+   margin-left: 100px;
+   background-position: right;
+}
+#circle-img{
+    padding-right: 100px;
+    /* width: 250px;
+    height: 250px;
+   visibility: visible; */
+   margin-top: 200px;
+  
+    
+}
+
+.part2{
+    margin-right: 0px;
+    width: 100%;
+}
+#last-img{
+    width: 100%;
+    height: 150px; }
+
+/* .part2>#last-img{
+    width: 1000px;
+    height: 200px;
+} */
+/* A swesome portfolio section */
+.portfolio{
+    /* margin:40px 40px; */
+    /* width: 100%; */
+}
+.portfolio-content{
+    text-align: left;
+}
+.port-title{
+    color: #070211;
+    font-size: 40px;
+    font-weight: 900;
+    line-height: normal;
+    
+}
+.port-subtitle{
+    color: #F00;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+}
+.portfolio-img1,.portfolio-img2{
+    display: flex;
+    gap: 20px;
+}
+.content-img{
+    width: 350px;
+    height: 350px;
+}
+/* newsletter styles */
+.newsletter{
+    margin: 40px 140px;
+    text-align: center;
+    background: rgba(255, 0, 0, 0.05);
+    
+}
+.news-title{
+    color: #070211;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+.btn{
+    /* width: 600px; */
+    height: 60px;
+    /* border: 5px solid rebeccapurple; */ 
+}
+.btn2{
+    padding: 10px 30px;
+    border-top-right-radius:20px;
+    border-bottom-right-radius: 20px;
+    border: 0;
+    background-color: #F00;
+    margin-left: 80px;
+    font-size: 20px;
+    color: #FFF;
+}
+.btn1{
+    margin-right: 80px;
+    font-size: 20px;
+    border: 0;
+}
+/* footer styles */
+.footer-text1{
+    color: #FFF;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+
+}
+.footer{
+    background-color: black;
+    
+}
+.footer-container{
+    margin: 40px 140px;
+    padding: 80px 120px;
+}
+.footer-content{
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+}
+.contact{
+    color: #FFF;
+    text-align: right;
+}
+h5> .icons{
+   margin-bottom: 5px;
+}
+h5> img{
+    width: 15px;
+    height: 15px;
+    
+}
+.footer-content2{
+    display: flex;
+    justify-content: center;
+}
+.footer-content3{
+    display: flex;
+    justify-content: center;
+    gap: 550px;
+
+}
+.para-1{
+    text-align: left;
+    color: #FFF;
+}
+.para-2{
+    position:relative;
+    text-align: right;
+    color: wheat;
+}
